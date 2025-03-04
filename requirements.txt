@@ -1,0 +1,20 @@
+fastapi
+uvicorn
+pandas
+numpy
+tensorflow
+torch
+scikit-learn
+matplotlib
+seaborn
+prophet
+statsmodels
+yfinance
+streamlit
+requests
+
+
+
+
+👨‍💻 Contributors
+Janhavi  Sonawane (Software Engineer)
